@@ -135,7 +135,7 @@ El aviso de copyright anterior y este aviso de permiso se incluirán en todas la
 
 * **Aintzane Goffard (Product Owner)** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aintzane-goffard-sevillano/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/A-Goffard)
   
-* **Tina Calleja (Software Developer)** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/tina-calleja-91a07460/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/usertina)
+* **Tina Calleja (Software Developer)** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tina-calleja/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/usertina)
   
 * **Johan Sebastian Rodríguez  (Software Developer)** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/johan-sebastian-rodriguez-g/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/johanrodriguez24)
   
